@@ -1,4 +1,4 @@
-# 🧠 Purpose
+# 🧬 Purpose
 **Unlocking Jira data to uncover Agile delivery insights**
 
 ## 🔭 Current focus
