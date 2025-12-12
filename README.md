@@ -2,7 +2,7 @@
 **Primarily tools for unlocking Jira data to uncover Agile delivery insights**
 
 ## 🔭 Current focus
-Identifying, reporting, and deriving data for analysing sprint spillover (planned work that was not completed in the assigned sprint) to enable surfacing learnings to improve future delivery.
+Enterprise/portfoilio wide metrics for identifying, reporting, and deriving data for analysing spillover (planned work that was not completed) to enable surfacing learnings to improve future delivery.
 
 ## 🚧 Projects
 - **[jira-spillover-get](https://github.com/ExponentiallyDigital/jira-spillover-get)** – extracts incomplete sprint work
