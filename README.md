@@ -16,7 +16,8 @@ Golang · Python · PowerShell
 Ongoing research into proprietary Jira API access methods and advanced project data analysis techniques.
 
 ## 🎨 Side Hustle
-Widows Performance tuning and debugging.
+Widows kernel performance tuning and debugging.
+World of Warcraft addons.
 Image sorting by human perception of colour and light using perceptual spaces (HSL, CIELAB, CIECAM02) and tools like PIL, OpenCV, scikit-image, colorspacious, TensorFlow, PyTorch.
 
 ## 📬 Contact
