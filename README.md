@@ -10,15 +10,16 @@
 - **jira-spillover-stat** *(in dev)* – computes spillover metrics and anomalies
 
 ## 🛠️ Stack
-Golang · Python · PowerShell
+Golang · Python · PowerShell · LUA · HTML · CSS
 
 ## 🌱 Learning
-Ongoing research into proprietary Jira API access methods and advanced project data analysis techniques.
+- Ongoing research into proprietary Jira API access methods and advanced project data analysis techniques.
+- MMO/FPS social capital.
 
-## 🎨 Side Hustle
-Widows kernel performance tuning and debugging.
-World of Warcraft addons.
-Image sorting by human perception of colour and light using perceptual spaces (HSL, CIELAB, CIECAM02) and tools like PIL, OpenCV, scikit-image, colorspacious, TensorFlow, PyTorch.
+## 🎨 Side Hustle(s)
+- Windows kernel performance tuning and debugging.
+- World of Warcraft addons.
+- Image sorting by human perception of colour and light using perceptual spaces (HSL, CIELAB, CIECAM02) and tools like PIL, OpenCV, scikit-image, colorspacious, TensorFlow, PyTorch.
 
 ## 📬 Contact
 [exponentiallydigital.com](https://www.exponentiallydigital.com)
