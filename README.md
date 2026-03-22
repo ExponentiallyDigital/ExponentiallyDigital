@@ -2,7 +2,7 @@
 **A suite of tools for unlocking Jira data to uncover powerful Agile delivery insights.**
 
 ## 🔭 Recent commercial focus
-**Generating enterprise-to-portfolio metrics from inaccessible Jira/project data. These metrics are then used to analyse, report, and resolve spillover (uncompleted planned work), driving significant improvements in planned predictability.**
+**Generating enterprise-to-portfolio metrics from inaccessible Jira/project data. These metrics are then used to analyse, report, and resolve spillover (incomple planned work), leading to significant improvements in delivery predictability.**
 
 ## 🚧 Projects
 - **[jira-spillover-get](https://github.com/ExponentiallyDigital/jira-spillover-get)** – extracts incomplete sprint work
