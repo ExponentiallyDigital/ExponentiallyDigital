@@ -10,7 +10,7 @@
 - **jira-spillover-stat** *(in dev)* – computes spillover metrics and anomalies
 
 ## 🛠️ Stack
-Golang · Python · PowerShell · LUA · HTML · CSS
+Golang · Python · PowerShell · HTML · CSS
 
 ## 🌱 Learning
 - Unlocking data and providing capability with the assistance of AI models, tools, and "vibe" code creation.
@@ -20,7 +20,6 @@ Golang · Python · PowerShell · LUA · HTML · CSS
 ## 🎨 Side Hustle(s)
 - Local AI via Ollama, MCP, claw etc.
 - Windows kernel performance tuning and debugging.
-- World of Warcraft addons.
 - Image sorting by human perception of colour and light using perceptual spaces (HSL, CIELAB, CIECAM02) with tools like PIL, OpenCV, scikit-image, colorspacious, TensorFlow, PyTorch.
 
 ## 📬 Contact
