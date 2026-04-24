@@ -9,8 +9,24 @@
 - **[jira-spillover-chart](https://github.com/ExponentiallyDigital/jira-spillover-chart)** – visualises delivery patterns
 - **jira-spillover-stat** *(in dev)* – computes spillover metrics and anomalies
 
-## 🛠️ Stack
-Golang · Python · PowerShell · HTML · CSS
+## 🛠️ GitHub Stats
+<p align="center">
+  <a href="https://www.exponentiallydigital.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=exponentiallydigital&hide_rank=true&custom_title=Activity&show_icons=true&line_height=35&count_private=true&theme=midnight-purple" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.exponentiallydigital.com">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exponentiallydigital&&hide=cmake&langs_count=8&line_height=35&theme=midnight-purple&layout=donut" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://exponentiallydigital.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=exponentiallydigital&theme=midnight-purple" />
+  </a>
+</p>
 
 ## 🌱 Learning
 - Unlocking data and providing capability with the assistance of AI models, tools, and "vibe" code creation.
