@@ -34,8 +34,9 @@
 - MMO/FPS online gaming and their intersection with social capital.
 
 ## 🎨 Side Hustle(s)
-- Local AI via Ollama, MCP, claw etc.
+- Local AI via Ollama/LM Studio, MCP, claw etc.
 - Windows kernel performance tuning and debugging.
+- Raspberry PI dev.
 - Image sorting by human perception of colour and light using perceptual spaces (HSL, CIELAB, CIECAM02) with tools like PIL, OpenCV, scikit-image, colorspacious, TensorFlow, PyTorch.
 
 ## 📬 Contact
