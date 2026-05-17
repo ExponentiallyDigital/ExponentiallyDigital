@@ -13,18 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main with full history
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
           ref: main
-
-      - name: Ensure local main matches origin/main
-        run: |
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -40,4 +33,4 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push origin main
+          git push --force-with-lease origin main
