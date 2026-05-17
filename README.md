@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.exponentiallydigital.com">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exponentiallydigital&&hide=cmake&langs_count=8&line_height=35&theme=midnight-purple&layout=donut" />
+    <img src="https://raw.githubusercontent.com/ExponentiallyDigital/ExponentiallyDigital/main/profile/top-langs.svg" />
   </a>
 </p>
 
