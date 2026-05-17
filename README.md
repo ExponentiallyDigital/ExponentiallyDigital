@@ -12,7 +12,7 @@
 ## 🛠️ GitHub Stats
 <p align="center">
   <a href="https://www.exponentiallydigital.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=exponentiallydigital&hide_rank=true&custom_title=Activity&show_icons=true&line_height=35&count_private=true&theme=midnight-purple" />
+    <img src="https://raw.githubusercontent.com/ExponentiallyDigital/ExponentiallyDigital/main/profile/stats.svg" />
   </a>
 </p>
 
