@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://exponentiallydigital.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=exponentiallydigital&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=exponentiallydigital&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&mode=weekly" />
   </a>
 </p>
 
