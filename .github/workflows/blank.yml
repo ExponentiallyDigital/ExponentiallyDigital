@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,8 +19,8 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Ensure we are on main
-        run: git checkout main
+      - name: Pull latest changes
+        run: git pull origin main --rebase
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
