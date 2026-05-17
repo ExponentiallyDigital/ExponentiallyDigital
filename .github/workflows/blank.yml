@@ -19,8 +19,10 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Pull latest changes
-        run: git pull origin main --rebase
+      - name: Fix detached HEAD
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
