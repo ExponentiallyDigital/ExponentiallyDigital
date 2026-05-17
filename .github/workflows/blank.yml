@@ -19,6 +19,11 @@ jobs:
           fetch-depth: 0
           ref: main
 
+      - name: Switch to main branch
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -33,4 +38,4 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push --force-with-lease origin main
+          git push origin main
