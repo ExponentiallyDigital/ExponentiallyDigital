@@ -11,11 +11,14 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Ensure we are on main
+        run: git checkout main
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
