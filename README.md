@@ -5,6 +5,7 @@
 **Generating enterprise-to-portfolio metrics from inaccessible Jira/project data. These metrics are then used to analyse, report, and resolve spillover (incomple planned work), leading to significant improvements in delivery predictability.**
 
 ## 🚧 Projects
+- **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** - generate and optionally apply WireGuard config for PIA VPNs, features a watchdog with self-healing and config management for ASUS Merlin devices.
 - **[jira-spillover-get](https://github.com/ExponentiallyDigital/jira-spillover-get)** – extracts incomplete sprint work
 - **[jira-spillover-chart](https://github.com/ExponentiallyDigital/jira-spillover-chart)** – visualises delivery patterns
 - **jira-spillover-stat** *(in dev)* – computes spillover metrics and anomalies
