@@ -12,7 +12,7 @@ Software isn't limited by our senses, only by our imagination.
 ## Select Projects
 - **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** - generate and optionally apply WireGuard config for PIA VPNs, features a watchdog with self-healing and config management for ASUS Merlin devices.
 
-**Generate enterprise-to-portfolio metrics from inaccessible Jira/project data to analyse, report, and resolve spillover (incomple planned work), leading to significant improvements in delivery predictability.**:
+**Generate enterprise-to-portfolio metrics from inaccessible Jira/project data to analyse, report, and resolve spillover (incomple planned work), leading to significant improvements in delivery predictability**:
 - **[jira-spillover-get](https://github.com/ExponentiallyDigital/jira-spillover-get)** – extracts incomplete sprint work
 - **[jira-spillover-chart](https://github.com/ExponentiallyDigital/jira-spillover-chart)** – visualises delivery patterns
 - **jira-spillover-stat** *(in dev)* – computes spillover metrics and anomalies.
