@@ -1,3 +1,5 @@
+<a href="https://github.com/ExponentiallyDigital/cfg-pia-wg/releases" target="_blank" rel="noopener noreferrer"><img src="https://visitor-badge.laobi.icu/badge?page_id=ExponentiallyDigital.ExponentiallyDigital" alt="Visitor Count"></a>
+
 # 🧬 Purpose
 **A suite of tools for unlocking Jira data to uncover powerful Agile delivery insights.**
 
@@ -31,9 +33,11 @@
 </p>
 
 ## 🌱 Learning
-- Unlocking data and providing capability with the assistance of AI models, tools, and "vibe" code creation.
+- Unlocking Agile data to provide learning and improvement insights.
+- Engineering analysis of Windows 11 full crash dumps; creation of scripted tooling.
 - Jira API access methods and advanced enterprise/organisation data analysis techniques.
 - MMO/FPS online gaming and their intersection with social capital.
+- AI assisted coding requires the human element to decide scope, maintain direction, and for ongoing goal alignment.
 
 ## 🎨 Side Hustle(s)
 - Local AI via Ollama/LM Studio, MCP, claw etc.
