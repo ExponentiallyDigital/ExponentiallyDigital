@@ -8,12 +8,11 @@ AI can be like Sauron, "the great deceiver". AI assisted coding needs the human 
 
 Nothing is hard, unless you think it so.
 
-## Purpose and learning
+## Multidisciplinary purpose
 
 - Acquisition of learning and improvement insights by unlocking Agile Jira data.
 - Engineering analysis of full Windows 11 crash dumps with scripted tooling and instrumentation.
 - Jira API access methods and advanced enterprise/organisation data analysis techniques.
-- AI assisted coding requires the human element to decide scope, maintain direction, and for ongoing goal alignment.
 
 ## Select Projects
 
