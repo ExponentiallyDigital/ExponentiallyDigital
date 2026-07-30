@@ -1,8 +1,12 @@
 <a href="https://github.com/ExponentiallyDigital/cfg-pia-wg/releases" target="_blank" rel="noopener noreferrer"><img src="https://visitor-badge.laobi.icu/badge?page_id=ExponentiallyDigital.ExponentiallyDigital" alt="Visitor Count"></a>
 
-## Principle
+## Principles
 
 Software isn't limited by our senses, only by our imagination.
+
+AI can be like Sauron, "the great deceiver". AI assisted coding needs the human element to decide scope, maintain direction, and for ongoing goal alignment.
+
+Nothing is hard, unless you think it so.
 
 ## Purpose and learning
 
