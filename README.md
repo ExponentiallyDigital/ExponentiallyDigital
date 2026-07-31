@@ -49,12 +49,6 @@ Nothing is hard unless you think it so.
 
 <p align="center">
   <a href="https://www.exponentiallydigital.com">
-    <img src="https://raw.githubusercontent.com/ExponentiallyDigital/ExponentiallyDigital/main/profile/stats.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.exponentiallydigital.com">
     <img src="https://raw.githubusercontent.com/ExponentiallyDigital/ExponentiallyDigital/main/profile/top-langs.svg" />
   </a>
 </p>
