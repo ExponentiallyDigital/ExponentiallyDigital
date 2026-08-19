@@ -4,7 +4,7 @@
 
 - Software isn't limited by our senses, only by our imagination.
 
-- AI can be like Sauron, "the great deceiver". AI-assisted coding needs the human element to decide scope, maintain direction, and for ongoing goal alignment.
+- AI can be like [Sauron](https://en.wikipedia.org/wiki/Sauron), "[the great deceiver](https://www.youtube.com/watch?v=eG7LbjrQq4o)": AI-assisted coding needs the human element to decide scope, maintain direction, and ensure ongoing goal alignment.
 
 - Nothing is hard unless you think it so.
 
