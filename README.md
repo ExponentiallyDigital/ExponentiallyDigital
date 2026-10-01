@@ -17,14 +17,14 @@
 
 ## Select projects
 
-1. **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** generates and optionally applies WireGuard config for PIA VPNs, features a watchdog with self-healing and config management for ASUS Merlin devices.
+1. **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** Android privacy and security app for ASUS routers, with PIA WireGuard VPNs. Pin each device to a VPN; on stock firmware, a kill switch keeps it off the internet if its tunnel drops. A self-healing watchdog on the router rebuilds dead configs and emails you. Also generates PIA conf files for any WireGuard client. GPL v3..
 
 2. Generate enterprise-to-portfolio metrics from inaccessible Jira/project data to analyse, report, and resolve spillover (incomplete planned work), leading to significant improvements in delivery predictability:
    - see blog post **[Mastering Agile spillover – analysis and strategic solutions](https://www.exponentiallydigital.com/mastering-agile-spillover-analysis-and-strategic-solutions)**
    - repo **[jira-spillover-get](https://github.com/ExponentiallyDigital/jira-spillover-get)** – extracts incomplete sprint work
    - repo **[jira-spillover-chart](https://github.com/ExponentiallyDigital/jira-spillover-chart)** – visualises delivery patterns
 
-3. Tools to analyse computer system instability/crashes including
+3. Tools to analyse computer system instability/crashes, including
    - **[ddr5-aio-analysis.ps1](https://github.com/ExponentiallyDigital/ddr5-aio-analysis)** facilitates physical RAM address exclusion by pulling potential corrupted-memory addresses from select full Windows dump files associated with specific bug checks, then cross-references and correlates these physical addresses, flagging both identical matches and adjacent near misses across multiple dump files for eight targeted crash codes:
       | 0x1a       | MEMORY_MANAGEMENT                   |
       | :--------: | :---------------------------------- |
