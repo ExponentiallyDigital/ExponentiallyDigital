@@ -10,14 +10,14 @@
 
 ## Multidisciplinary purpose
 
-- End-to-end engineering of open-source VPN control for ASUS routers, from Play Store app to self-healing watchdog, with 90%+ test coverage, signed SLSA builds and quality beyond most COTS.
+- End-to-end engineering of open-source VPN control for ASUS routers, from Play and App Store apps to self-healing watchdog, with 90%+ test coverage, signed SLSA builds and quality beyond most COTS.
 - Acquisition of learning and improvement insights by unlocking Agile Jira data.
 - Engineering analysis of full Windows 11 crash dumps with scripted tooling and instrumentation.
 - Jira API access methods and advanced enterprise/organisation data analysis techniques.
 
 ## Select projects
 
-1. **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** Android privacy and security app for ASUS routers, with PIA WireGuard VPNs. Pin each device to a VPN; on stock firmware, a kill switch keeps it off the internet if its tunnel drops. A self-healing watchdog on the router rebuilds dead configs and emails you. Also generates PIA conf files for any WireGuard client. GPL v3..
+1. **[cfg-pia-wg](https://github.com/ExponentiallyDigital/cfg-pia-wg)** Android and iOS privacy and security app for ASUS routers, with PIA WireGuard VPNs. Pin each device to a VPN; on stock firmware, a kill switch keeps it off the internet if its tunnel drops. A self-healing watchdog on the router rebuilds dead configs and emails you. Also generates PIA conf files for any WireGuard client. GPL v3.
 
 2. Generate enterprise-to-portfolio metrics from inaccessible Jira/project data to analyse, report, and resolve spillover (incomplete planned work), leading to significant improvements in delivery predictability:
    - see blog post **[Mastering Agile spillover – analysis and strategic solutions](https://www.exponentiallydigital.com/mastering-agile-spillover-analysis-and-strategic-solutions)**
